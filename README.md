@@ -28,7 +28,8 @@
   <div>
     <a href="https://github.com/andreflor21/Gameplay" target="_blank"> <img height="130em" width="45%"  alt="Gameplay" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=gameplay&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/CleanGo" target="_blank"> <img height="130em" width="45%" alt="Cleango" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=cleango&theme=dark&show_icons=true"/> </a>
- 
+    <a href="https://github.com/andreflor21/crud-sql" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=crud-sql&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/crud-nosql" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=crud-nosql&theme=dark&show_icons=true"/> </a>
   </div>
   
  
