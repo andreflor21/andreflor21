@@ -1,7 +1,7 @@
 ### Hello there, my name is Andre Flor
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on back-end development
+- 🌱 I’m currently learning django, nodeJs and Docker
 - ⚡ Fun fact: I practice yoga and airsoft
 
  <div >
