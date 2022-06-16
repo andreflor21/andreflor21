@@ -40,7 +40,7 @@
 
 ### My works
   <div>
-    <a href="https://github.com/andreflor21/api-go-bananas-py" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=api-go-bananas-py&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/go_bananas_api" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=go_bananas_api&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/Gameplay" target="_blank"> <img height="130em" width="45%"  alt="Gameplay" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=gameplay&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/CleanGo" target="_blank"> <img height="130em" width="45%" alt="Cleango" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=cleango&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/crud-sql" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=crud-sql&theme=dark&show_icons=true"/> </a>
