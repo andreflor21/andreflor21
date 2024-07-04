@@ -25,6 +25,7 @@
  
 * Back-End
   <div style="display: inline_block"><br>
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
@@ -40,10 +41,10 @@
 
 ### My works
   <div>
-    <a href="https://github.com/andreflor21/go_bananas_api" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=go_bananas_api&theme=dark&show_icons=true"/> </a>
-    <a href="https://github.com/andreflor21/Gameplay" target="_blank"> <img height="130em" width="45%"  alt="Gameplay" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=gameplay&theme=dark&show_icons=true"/> </a>
-    <a href="https://github.com/andreflor21/CleanGo" target="_blank"> <img height="130em" width="45%" alt="Cleango" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=cleango&theme=dark&show_icons=true"/> </a>
-    <a href="https://github.com/andreflor21/crud-sql" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=crud-sql&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/bulb_finder_server" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=bulb_finder_server&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/bulb_finder" target="_blank"> <img height="130em" width="45%"  alt="Gameplay" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=bulb_finder&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/kb-api" target="_blank"> <img height="130em" width="45%" alt="Cleango" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=kb-api&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/CleanGo" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=cleango&theme=dark&show_icons=true"/> </a>
   </div>
   
  
