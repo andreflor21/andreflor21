@@ -1,8 +1,8 @@
 ### Hello there, my name is Andre Flor
 
-- 🔭 I’m currently working on back-end development
-- 🌱 I’m currently learning django, nodeJs and Docker
-- ⚡ Fun fact: I practice yoga and airsoft
+- 🔭 I’m currently working on full-stack development (PHP and JS)
+- 🌱 I’m currently learning Go
+- ⚡ Fun fact: I practice airsoft
 
  <div >
   <a href="https://github.com/andreflor21">
