@@ -44,7 +44,7 @@
     <a href="https://github.com/andreflor21/bulb_finder_server" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=bulb_finder_server&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/bulb_finder" target="_blank"> <img height="130em" width="45%"  alt="Gameplay" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=bulb_finder&theme=dark&show_icons=true"/> </a>
     <a href="https://github.com/andreflor21/kb-api" target="_blank"> <img height="130em" width="45%" alt="Cleango" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=kb-api&theme=dark&show_icons=true"/> </a>
-    <a href="https://github.com/andreflor21/CleanGo" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=cleango&theme=dark&show_icons=true"/> </a>
+    <a href="https://github.com/andreflor21/kanban-frontend" target="_blank"> <img height="130em" width="45%" alt="Crud-SQL" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=andreflor21&repo=kanban-frontend&theme=dark&show_icons=true"/> </a>
   </div>
   
  
